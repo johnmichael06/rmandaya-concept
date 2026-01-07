@@ -8,7 +8,7 @@ export const Hero: React.FC = () => {
       <div className="absolute inset-0 w-full h-full z-0">
         {/* USE THIS NORMAL IMG TAG INSTEAD */}
         <img
-          src="/images/royal-mandaya.jpg"
+          src="https://cf.bstatic.com/xdata/images/hotel/max1024x768/7846227.jpg?k=e74c6ff5e37f09ee5ad10e630497ac6efe3b43570b2f97db31fd76e34ed13cd5&o="
           alt="Royal Mandaya Hotel Exterior"
           className="absolute inset-0 w-full h-full object-cover"
         />
